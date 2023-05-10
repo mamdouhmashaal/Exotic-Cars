@@ -41,8 +41,7 @@
     width: 35px;
 }
 .header p{
-
-    padding-right: 1485px;
+    flex: 1;
     font-size:  28px; 
     font-weight: 35px;
     color: #f9faf8;
